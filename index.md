@@ -1,7 +1,6 @@
-
 # CV de Lola Perrin
 
-## Profil Test 1
+## Profil
 Ma formation vise à faire de moi une spécialiste du traitement et de la valorisation de l'information.
 J'aime travailler en équipe et je suis capable d'appliquer rapidement de nouvelles compétences.
 
